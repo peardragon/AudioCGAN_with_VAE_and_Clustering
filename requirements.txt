@@ -1,0 +1,5 @@
+numpy==1.20.3
+plotly==5.2.2
+pytorch==1.9.0+cu111
+scipy==1.7.3
+soundfile==0.10.3
